@@ -1,0 +1,2 @@
+# CouchbaseScaffoldingTemplate
+CouchbaseApi
